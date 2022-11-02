@@ -6,5 +6,4 @@ nltk
 scipy
 ipython-sql
 seaborn
-stastmodels
 tabulate
