@@ -51,10 +51,10 @@
 ######  Ainsi, les États-Unis sont devenus le gagnant dominant du prix Nobel d’abord dans les années 1930 et avait gardé la position de leader depuis. Mais un groupe qui était en tête depuis le début, et qui ne semble jamais lâcher prise, ce sont les hommes. Cela ne devrait peut-être pas être un choc qu’il y ait un certain déséquilibre entre le nombre de lauréats masculins et féminins, mais quelle est l’importance de ce déséquilibre? Et est-il meilleur ou pire dans certaines catégories de prix comme la physique, la médecine, la littérature, etc.?
 ###### ✅ Répartition de la proportion de femmes lauréates par décennie par catégorie de prix.
 ![img](./image/chart_female.png)
-![img](./image/chart_female2.png)
+![img](./image/chart_female_2.png)
 ###### ✅ Répartition de la proportion de hommes lauréates par décennie par catégorie de prix.
 ![img](./image/chart_male.png)
-![img](./image/chart_male2.png)
+![img](./image/chart_male_2.png)
 
 -------
 #### 📊 Lauréats du prix Nobel par âge
