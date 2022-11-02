@@ -6,4 +6,5 @@ nltk
 scipy
 ipython-sql
 seaborn==0.10.1
+statsmodels
 tabulate
