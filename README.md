@@ -66,4 +66,16 @@
 #### Examinons les tendances de l’âge dans différentes catégories de prix.
 ![img](./image/les_catégories_de_prix.png)
 
+## 📌 Conclusion
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+###### <p>Pour conclure: </p>
+###### <p>Les nombres de prix remportés par les lauréats masculins et féminins</p>
+###### <p>les nombre de prix remportés par les 10 premières nationalités.</p>
+###### <p> La visualitation de La domination des États-Unis</p>
+###### <p> la visualitation de sexe d'un lauréats soit femme soit homme  qui recoit du prix Nobel par catégories </p>
+###### <p> Les premières femmes et hommes à remporter le Prix Nobel. </p>
+###### <p> Affichage de certains lauréats qui obtenu plus d’une fois de prix nobel </p>
+###### <p> Affichage de certains lauréats qui obtenu plus d’une fois de prix nobel </p>
+###### <p> La visualitation de l’âge de chaque gagnant quand ils ont gagné leur prix Nobel </p>
 
